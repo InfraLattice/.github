@@ -1,12 +1,9 @@
-## Hi there 👋
+## InfraLattice
 
-<!--
+We are a network architecture, infrastructure solutions, SaaS, and operations solutions provider LLC.
 
-**Here are some ideas to get you started:**
+We aim to create solutions for any problem! So long as reasonable expectations are set for the team, we will get started on working it!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Current Status
+
+We are currently in the process of building our portfolio, but we are certainly open to inquiries!
